@@ -21,4 +21,4 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 6
 
 ## Exercises
-* Week 1: Complete [variables.js] (https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/variables.js)
+* Week 1: Complete [variables.js] (https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/variables.js) and commit your work to Github.
