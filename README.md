@@ -26,5 +26,5 @@ This repository is your ressource collection for the Javascript Specialization t
 * 
 
 ## Reading
-* Week 1
+* WEEK 1
   * [Eloquent Javascript: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
