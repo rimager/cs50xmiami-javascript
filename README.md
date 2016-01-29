@@ -25,10 +25,14 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 1
   * Complete [variables.js] (https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/variables.js) and commit your work to Github. DUE Tuesday January 26th 2016, 6pm.
 * WEEK 2
-  * Complete controlflow.js and commit your work to Github. DUE Tuesday February 2nd 2016, 6pm
+  * Complete functions.js and controlflow.js and commit your work to Github. DUE Tuesday February 2nd 2016, 6pm
 
 ## Reading
 * WEEK 1
   * [Eloquent Javascript: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 * WEEK 2
   * [Eloquent Javascript: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+
+## Additional Resources
+
+* [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
