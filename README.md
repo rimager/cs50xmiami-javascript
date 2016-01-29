@@ -32,6 +32,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Eloquent Javascript: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 * WEEK 2
   * [Eloquent Javascript: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+  * [Eloquent Javascript: Functions](http://eloquentjavascript.net/03_functions.html)
 
 ## Additional Resources
 
