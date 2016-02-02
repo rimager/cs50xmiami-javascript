@@ -33,7 +33,9 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 2
   * [Eloquent Javascript: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
   * [Eloquent Javascript: Functions](http://eloquentjavascript.net/03_functions.html)
-
+* WEEK 3
+  * [Eloquent Javascript: Javascript and the browser)[http://eloquentjavascript.net/12_browser.html]
+  * [Eloquent Javascript: The DOM](http://eloquentjavascript.net/13_dom.html)
 ## Additional Resources
 
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
