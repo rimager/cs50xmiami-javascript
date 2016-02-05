@@ -11,3 +11,7 @@ Write a function that determines whether your popup window was closed by the use
 The function shall log the status of the popup ("open" vs "closed") to the console.
 Test the function by invoking when the popup is closed/open.
 */
+
+/*
+Create an Interval that console.logs the current time every 5 seconds.
+*/
