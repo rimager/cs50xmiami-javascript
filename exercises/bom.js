@@ -15,3 +15,17 @@ Test the function by invoking when the popup is closed/open.
 /*
 Create an Interval that console.logs the current time every 5 seconds.
 */
+
+/*
+Query the user for their age. 
+If they are 21 or over, redirect them to your favorite brewery. 
+If they are under 21, redirect them to the Disney website.
+*/
+
+/*
+Write a mobile redirection script.
+If the available screen size is less than 320px (based on http://screensiz.es/phone), ask them if they would like
+to view the mobile version of the site. 
+If they confirm, redirect them to index-mobile.html.
+Otherwise, land them on the standard index.html
+*/
