@@ -5,3 +5,9 @@ Move it to the center of the current browser window.
 Resize the window to 500px x 500px.
 Give the popup window focus.
 */
+
+/*
+Write a function that determines whether your popup window was closed by the user. 
+The function shall log the status of the popup ("open" vs "closed") to the console.
+Test the function by invoking when the popup is closed/open.
+*/
