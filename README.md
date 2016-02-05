@@ -12,7 +12,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Class 3] (https://docs.google.com/presentation/d/1lgyhM4NNhmeR3T8nrlIvzVQ0GdJLxXaOaRApt-nSAmU/pub?start=false&loop=false&delayms=3000)
 * WEEK 3
   * [Class 4](https://docs.google.com/presentation/d/1h5lyuoqCa9AquLeCirVCJ3bT8pMiDeQzwPHVUWkB81I/pub?start=false&loop=false&delayms=3000)
-  * Class 5
+  * [Class 5](https://docs.google.com/presentation/d/1Ywk9qpGrJXRRIKvsxdGlsYXHpT2e986zS06jnOW0Kjs/pub?start=false&loop=false&delayms=3000)
 * WEEK 4
   * Class 6
   * Class 7
@@ -26,6 +26,8 @@ This repository is your ressource collection for the Javascript Specialization t
   * Complete [variables.js] (https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/variables.js) and commit your work to Github. DUE Tuesday January 26th 2016, 6pm.
 * WEEK 2
   * Complete functions.js and controlflow.js and commit your work to Github. DUE Tuesday February 2nd 2016, 6pm
+* WEEK 3
+  * Complete [dom.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/dom.js) and [bom.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/bom.js)
 
 ## Reading
 * WEEK 1
@@ -34,7 +36,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Eloquent Javascript: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
   * [Eloquent Javascript: Functions](http://eloquentjavascript.net/03_functions.html)
 * WEEK 3
-  * [Eloquent Javascript: Javascript and the browser)[http://eloquentjavascript.net/12_browser.html]
+  * [Eloquent Javascript: Javascript and the browser)](http://eloquentjavascript.net/12_browser.html)
   * [Eloquent Javascript: The DOM](http://eloquentjavascript.net/13_dom.html)
 ## Additional Resources
 
