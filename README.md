@@ -28,6 +28,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * Complete functions.js and controlflow.js and commit your work to Github. DUE Tuesday February 2nd 2016, 6pm
 * WEEK 3
   * Complete [dom.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/dom.js) and [bom.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/bom.js) DUE Tuesday February 9th 2016, 6pm
+  * Complete [arrays.js] DUE Friday gebruary 12th 2016, 6pm.
 
 ## Reading
 * WEEK 1
@@ -38,6 +39,9 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 3
   * [Eloquent Javascript: Javascript and the browser)](http://eloquentjavascript.net/12_browser.html)
   * [Eloquent Javascript: The DOM](http://eloquentjavascript.net/13_dom.html)
-## Additional Resources
+* WEEK 4
+  * [Eloquent Javascipt: Data Structures](http://eloquentjavascript.net/04_data.html) 
+  * [Eloquent Javascript: Regular Expressions](http://eloquentjavascript.net/09_regexp.html)
 
+## Additional Resources
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
