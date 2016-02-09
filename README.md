@@ -45,3 +45,4 @@ This repository is your ressource collection for the Javascript Specialization t
 
 ## Additional Resources
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
+* [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)
