@@ -1,0 +1,3 @@
+/*
+Rewrite a previous assignment to pass jslint.
+*/
