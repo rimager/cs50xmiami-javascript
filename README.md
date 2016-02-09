@@ -14,7 +14,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Class 4](https://docs.google.com/presentation/d/1h5lyuoqCa9AquLeCirVCJ3bT8pMiDeQzwPHVUWkB81I/pub?start=false&loop=false&delayms=3000)
   * [Class 5](https://docs.google.com/presentation/d/1Ywk9qpGrJXRRIKvsxdGlsYXHpT2e986zS06jnOW0Kjs/pub?start=false&loop=false&delayms=3000)
 * WEEK 4
-  * Class 6
+  * [Class 6](https://docs.google.com/presentation/d/1qAexl0QADQ2S2uAPjSJUwvfMUcEmDytxP6SsWUidHig/pub?start=false&loop=false&delayms=3000)
   * Class 7
 * WEEK 5
   * Class 8
