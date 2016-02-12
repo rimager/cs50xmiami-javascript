@@ -30,6 +30,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * Complete [dom.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/dom.js) and [bom.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/bom.js) DUE Tuesday February 9th 2016, 6pm
 * WEEK 4 
   * Complete [arrays.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/arrays.js) and [jshint.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/jshint.js) DUE Friday February 12th 2016, 6pm.
+  * Complete [forms.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/forms.js) DUE Tuesday February 16th, 2016, 6pm.
 
 ## Reading
 * WEEK 1
