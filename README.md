@@ -43,6 +43,8 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 4
   * [Eloquent Javascipt: Data Structures](http://eloquentjavascript.net/04_data.html) 
   * [Eloquent Javascript: Regular Expressions](http://eloquentjavascript.net/09_regexp.html)
+  * [Eloquent Javascript: Handling Events](http://eloquentjavascript.net/14_event.html)
+  * [Eloquent Javascript: Forms and Form Fields](http://eloquentjavascript.net/18_forms.html)
 
 ## Additional Resources
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
