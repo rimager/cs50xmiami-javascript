@@ -38,7 +38,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Eloquent Javascript: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
   * [Eloquent Javascript: Functions](http://eloquentjavascript.net/03_functions.html)
 * WEEK 3
-  * [Eloquent Javascript: Javascript and the browser)](http://eloquentjavascript.net/12_browser.html)
+  * [Eloquent Javascript: Javascript and the browser](http://eloquentjavascript.net/12_browser.html)
   * [Eloquent Javascript: The DOM](http://eloquentjavascript.net/13_dom.html)
 * WEEK 4
   * [Eloquent Javascipt: Data Structures](http://eloquentjavascript.net/04_data.html) 
