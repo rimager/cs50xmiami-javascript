@@ -17,7 +17,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Class 6](https://docs.google.com/presentation/d/1qAexl0QADQ2S2uAPjSJUwvfMUcEmDytxP6SsWUidHig/pub?start=false&loop=false&delayms=3000)
   * [Class 7](https://docs.google.com/presentation/d/1v_FZk2bedYpeyj2xVhu9vZvuSa1aERvFGKMi-F4ZhKQ/pub?start=false&loop=false&delayms=3000)
 * WEEK 5
-  * Class 8
+  * [Class 8](https://docs.google.com/presentation/d/1kG1FxJ1kWnOZR3ctWPOYqHlTzmni3yKJrdHW4dhzs5U/pub?start=false&loop=false&delayms=3000)
   * Class 9
 * WEEK 6
 
@@ -46,6 +46,8 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Eloquent Javascript: Regular Expressions](http://eloquentjavascript.net/09_regexp.html)
   * [Eloquent Javascript: Handling Events](http://eloquentjavascript.net/14_event.html)
   * [Eloquent Javascript: Forms and Form Fields](http://eloquentjavascript.net/18_forms.html)
+* WEEK 5
+  * [Eloquent Javascript: Objects](http://eloquentjavascript.net/06_object.html)
 
 ## Additional Resources
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
