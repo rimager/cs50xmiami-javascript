@@ -18,7 +18,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Class 7](https://docs.google.com/presentation/d/1v_FZk2bedYpeyj2xVhu9vZvuSa1aERvFGKMi-F4ZhKQ/pub?start=false&loop=false&delayms=3000)
 * WEEK 5
   * [Class 8](https://docs.google.com/presentation/d/1kG1FxJ1kWnOZR3ctWPOYqHlTzmni3yKJrdHW4dhzs5U/pub?start=false&loop=false&delayms=3000)
-  * Class 9
+  * [Class 9](https://docs.google.com/presentation/d/1LjJR2xahYXoXHLUXiiOB2q8_dOmypjlvkO30TOslJhg/pub?start=false&loop=false&delayms=3000)
 * WEEK 6
 
 ## Exercises
@@ -31,6 +31,7 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 4 
   * Complete [arrays.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/arrays.js) and [jshint.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/jshint.js) DUE Friday February 12th 2016, 6pm.
   * Complete [forms.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/forms.js) DUE Tuesday February 16th, 2016, 6pm.
+ * WEEK 5
 
 ## Reading
 * WEEK 1
@@ -48,6 +49,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Eloquent Javascript: Forms and Form Fields](http://eloquentjavascript.net/18_forms.html)
 * WEEK 5
   * [Eloquent Javascript: Objects](http://eloquentjavascript.net/06_object.html)
+  * [Eloquent Javascript: HTTP](http://eloquentjavascript.net/17_http.html)
 
 ## Additional Resources
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
