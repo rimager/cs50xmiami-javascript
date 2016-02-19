@@ -19,7 +19,7 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 5
   * [Class 8](https://docs.google.com/presentation/d/1kG1FxJ1kWnOZR3ctWPOYqHlTzmni3yKJrdHW4dhzs5U/pub?start=false&loop=false&delayms=3000)
   * [Class 9](https://docs.google.com/presentation/d/1LjJR2xahYXoXHLUXiiOB2q8_dOmypjlvkO30TOslJhg/pub?start=false&loop=false&delayms=3000)
-* WEEK 6
+ * WEEK 6
 
 ## Exercises
 * WEEK 1
@@ -32,6 +32,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * Complete [arrays.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/arrays.js) and [jshint.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/jshint.js) DUE Friday February 12th 2016, 6pm.
   * Complete [forms.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/forms.js) DUE Tuesday February 16th, 2016, 6pm.
  * WEEK 5
+ * Complete [ajax.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/ajax.js)
 
 ## Reading
 * WEEK 1
