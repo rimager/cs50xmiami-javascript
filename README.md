@@ -20,6 +20,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Class 8](https://docs.google.com/presentation/d/1kG1FxJ1kWnOZR3ctWPOYqHlTzmni3yKJrdHW4dhzs5U/pub?start=false&loop=false&delayms=3000)
   * [Class 9](https://docs.google.com/presentation/d/1LjJR2xahYXoXHLUXiiOB2q8_dOmypjlvkO30TOslJhg/pub?start=false&loop=false&delayms=3000)
 * WEEK 6
+ * [Class 10](https://docs.google.com/presentation/d/1KbTFYQWcNUPV-DQHjG8Do9BGI7n5tNvOw078pS6Royw/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 * WEEK 1
@@ -33,6 +34,8 @@ This repository is your ressource collection for the Javascript Specialization t
   * Complete [forms.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/forms.js) DUE Tuesday February 16th, 2016, 6pm.
 * WEEK 5
  * Complete [ajax.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/ajax.js)
+* WEEK 6
+ * Complete [security.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/security.js)
 
 ## Reading
 * WEEK 1
@@ -51,6 +54,7 @@ This repository is your ressource collection for the Javascript Specialization t
 * WEEK 5
   * [Eloquent Javascript: Objects](http://eloquentjavascript.net/06_object.html)
   * [Eloquent Javascript: HTTP](http://eloquentjavascript.net/17_http.html)
+* WEEK 6
 
 ## Additional Resources
 * [CodeAcademy: Javascript Track] (https://www.codecademy.com/learn/javascript)
