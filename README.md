@@ -36,6 +36,7 @@ This repository is your ressource collection for the Javascript Specialization t
  * Complete [ajax.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/ajax.js)
 * WEEK 6
  * Complete [security.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/security.js)
+ * Complete [jquery.js](https://github.com/rimager/cs50xmiami-javascript/blob/master/exercises/jquery.js)
 
 ## Reading
 * WEEK 1
