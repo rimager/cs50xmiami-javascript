@@ -21,6 +21,7 @@ This repository is your ressource collection for the Javascript Specialization t
   * [Class 9](https://docs.google.com/presentation/d/1LjJR2xahYXoXHLUXiiOB2q8_dOmypjlvkO30TOslJhg/pub?start=false&loop=false&delayms=3000)
 * WEEK 6
  * [Class 10](https://docs.google.com/presentation/d/1KbTFYQWcNUPV-DQHjG8Do9BGI7n5tNvOw078pS6Royw/pub?start=false&loop=false&delayms=3000)
+ * [Class 11](https://docs.google.com/presentation/d/1tYHilm0yk1G-uVRJG04i6nCu3XEGdlOgJL8w_xijfR4/pub?start=false&loop=false&delayms=3000)
 
 ## Exercises
 * WEEK 1
